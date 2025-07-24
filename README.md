@@ -1,6 +1,6 @@
 - 👋 Hi
 - 👀 Strong interest in and prior research experience with Machine Learning, Computer Vision, Deep learning
-- I had experience as Data Scientist
+- Experienced Data Scientist, certified in Microsoft Azure (AI Fundamental), Google Cloud (Machine Learning Engineer)
 
 <!---
 stiaraz/stiaraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
